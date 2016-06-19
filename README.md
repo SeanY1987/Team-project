@@ -23,7 +23,7 @@
   - 移动端  https://abuxiele.github.io/yidong
   
 ## 王晓阳
-  - 移动端 http://seany1987.github.io/SeanResume/inde.html
-  - PC  
+  - 移动端 http://seany1987.github.io/SeanResume/
+  - PC   https://seany1987.github.io/lagou-project/
   
   
